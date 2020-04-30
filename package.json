@@ -51,7 +51,7 @@
     "fancybox": "^3.0.1",
     "hamburgers": "^0.9.3",
     "handlebars": "^4.1.2",
-    "jquery": "3.4.0",
+    "jquery": "3.5.0",
     "natives": "^1.1.6",
     "popper.js": "^1.15.0",
     "sass-mq": "github:flea89/sass-mq#3069b7bdf4a3d641ec467c3c0100a8715578bd6c",
