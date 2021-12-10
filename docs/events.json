@@ -1,11 +1,22 @@
 [
-  {
-   "hour": "7 :30",
-   "maps_link": "https://g.page/fideliorchestra?share",
-   "title": "From Schubert to Zappa",
-   "where": "Fidelio Café",
-   "programme": "Schubert, Stravinsky, Puccini, Zappa",
-   "more_info": "<a href=\"https://www.fideliorchestra.art/events\" target=\"_blank\">Events and tickets</a>",
-   "date": "2019-10-28T19:30"
- }
+{
+    "bk_date": "12/05/2022",
+    "hour": "18: 00",
+    "maps_link": "https://goo.gl/maps/5MhxUrRy8Jajp4sN6",
+    "title": "Rutsu, Album launch Tour",
+    "where": "Trinity Laban Conservatoire of Music and Dance, Peacock Room",
+    "programme": "Puccini, Ravel, Hirano",
+    "more_info": "<a href=\" https://www.trinitylaban.ac.uk/whats-on\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2022-05-12T18:00"
+  },
+ {
+    "bk_date": "23/07/2022",
+    "hour": "9: 00",
+    "maps_link": "https://goo.gl/maps/YbtCdv5ZrtPcmUPb7",
+    "title": "World Harp Congress",
+    "where": "Dora Stoutzker Concert Hall",
+    "programme": "Puccini, Ravel, Hirano, Zappa",
+    "more_info": "<a href=\" https://www.whc2022.wales\" target=\"_blank\">What's on and tickets</a>",
+    "date": "2022-07-23T09:00"
+  }
 ]
